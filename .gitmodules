@@ -1,0 +1,6 @@
+[submodule "dependencies/dimsum"]
+	path = dependencies/dimsum
+	url = https://github.com/google/dimsum.git
+[submodule "dependencies/libsimdpp"]
+	path = dependencies/libsimdpp
+	url = https://github.com/p12tic/libsimdpp.git
